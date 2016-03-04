@@ -1,5 +1,7 @@
 eslint-config-underdog
 ======================
+[![Build Status](https://travis-ci.org/underdogio/eslint-config-underdog.svg?branch=master)](https://travis-ci.org/underdogio/eslint-config-underdog)
+
 Base [ESLint](http://eslint.org/) config for Underdog.io's JavaScript code.
 
 ## Usage
