@@ -1,6 +1,7 @@
 eslint-config-underdog
 ======================
 [![Build Status](https://travis-ci.org/underdogio/eslint-config-underdog.svg?branch=master)](https://travis-ci.org/underdogio/eslint-config-underdog)
+[![npm version](https://badge.fury.io/js/eslint-config-underdog.svg)](http://badge.fury.io/js/eslint-config-underdog)
 
 Base [ESLint](http://eslint.org/) config for Underdog.io's JavaScript code.
 
