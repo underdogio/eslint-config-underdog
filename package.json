@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-underdog",
+  "version": "1.0.0",
+  "description": "ESLint styles for Underdog.io",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint -c ./index.js ./**/*.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/underdogio/es-lint-config-underdog.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "underdog",
+    "underdog.io",
+    "config",
+    "style",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Brett Langdon <me@brett.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/underdogio/es-lint-config-underdog/issues"
+  },
+  "homepage": "https://github.com/underdogio/es-lint-config-underdog",
+  "peerDependencies": {
+    "eslint": "2.2.x"
+  },
+  "devDependencies": {
+    "eslint": "2.2.0"
+  }
+}
