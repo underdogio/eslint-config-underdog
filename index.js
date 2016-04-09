@@ -78,7 +78,10 @@ module.exports = {
     'max-len': 0,
     'max-nested-callbacks': 2,
     'max-params': 2,
-    'max-statements': 2,
+    'max-statements': [
+      2,
+      20
+    ],
     'new-parens': 2,
     'newline-after-var': 0,
     'newline-per-chained-call': 0,
