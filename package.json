@@ -28,9 +28,9 @@
   },
   "homepage": "https://github.com/underdogio/es-lint-config-underdog",
   "peerDependencies": {
-    "eslint": "2.2.x"
+    "eslint": "2.8.x"
   },
   "devDependencies": {
-    "eslint": "2.2.0"
+    "eslint": "2.8.0"
   }
 }
