@@ -21,3 +21,15 @@ Use this config as the base for your `eslintrc` config:
   }
 }
 ```
+
+### ES6
+
+If you would like to use ES6, extend from the `ES6` config:
+
+```
+{
+  "extends: "underdog/es6",
+  "rules": {
+  }
+}
+```
