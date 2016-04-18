@@ -4,7 +4,9 @@
   "description": "Base ESLint styles by Underdog.io",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint -c ./index.js ./**/*.js",
+    "lint": "npm run lint-es5 && npm run lint-es6",
+    "lint-es5": "eslint -c ./index.js ./index.js ./test/index.js",
+    "lint-es6": "eslint -c ./es6.js ./**/*.js",
     "test": "npm run lint"
   },
   "repository": {
