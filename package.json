@@ -4,9 +4,10 @@
   "description": "Base ESLint styles by Underdog.io",
   "main": "index.js",
   "scripts": {
-    "lint": "npm run lint-es5 && npm run lint-es6",
+    "lint": "npm run lint-es5 && npm run lint-es6 && npm run lint-react",
     "lint-es5": "eslint -c ./index.js ./index.js ./test/index.js",
     "lint-es6": "eslint -c ./es6.js ./**/*.js",
+    "lint-react": "eslint -c ./react.js ./**/*.jsx",
     "test": "npm run lint"
   },
   "repository": {
@@ -34,5 +35,8 @@
   },
   "devDependencies": {
     "eslint": "2.8.0"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "6.2.0"
   }
 }
