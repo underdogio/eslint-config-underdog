@@ -33,15 +33,3 @@ If you would like to use ES6, extend from the `ES6` config:
   }
 }
 ```
-
-### React
-
-If you are using React, extend from the `React` config:
-
-```
-{
-  "extends: "underdog/react",
-  "rules": {
-  }
-}
-```
