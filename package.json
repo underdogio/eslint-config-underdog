@@ -31,10 +31,10 @@
   },
   "homepage": "https://github.com/underdogio/eslint-config-underdog",
   "peerDependencies": {
-    "eslint": "3.9.x"
+    "eslint": "3.12.x"
   },
   "devDependencies": {
-    "eslint": "3.9.x"
+    "eslint": "3.12.x"
   },
   "dependencies": {
     "eslint-plugin-react": "6.2.0"
