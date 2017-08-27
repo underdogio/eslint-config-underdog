@@ -195,7 +195,6 @@ module.exports = {
     'require-yield': 2,
     'semi': 2,
     'semi-spacing': 2,
-    'sort-imports': 2,
     'sort-vars': 2,
     'space-before-blocks': 2,
     'space-before-function-paren': 2,
