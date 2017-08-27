@@ -30,13 +30,15 @@
     "url": "https://github.com/underdogio/eslint-config-underdog/issues"
   },
   "homepage": "https://github.com/underdogio/eslint-config-underdog",
+  "dependencies": {
+    "eslint-plugin-react": "^7.3.0"
+  },
   "peerDependencies": {
-    "eslint": "3.12.x"
+    "eslint": "^4.5.0"
   },
   "devDependencies": {
-    "eslint": "3.12.x"
-  },
-  "dependencies": {
-    "eslint-plugin-react": "6.2.0"
+    "eslint": "^4.5.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1"
   }
 }
