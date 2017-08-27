@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React from 'react';
 
 class TestComponent extends React.Component {
@@ -13,7 +14,7 @@ class TestComponent extends React.Component {
 }
 
 TestComponent.propTypes = {
-  message: React.PropTypes.string
+  message: PropTypes.string
 };
 
 export default TestComponent;
