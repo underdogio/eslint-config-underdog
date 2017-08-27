@@ -15,7 +15,6 @@ module.exports = {
     'array-bracket-spacing': 2,
     'array-callback-return': 2,
     'arrow-body-style': 0,
-    'arrow-parens': 2,
     'arrow-spacing': 2,
     'block-scoped-var': 2,
     'block-spacing': 2,
