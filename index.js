@@ -1,5 +1,4 @@
 module.exports = {
-  ecmaFeatures: {},
   env: {
     amd: false,
     browser: true,
