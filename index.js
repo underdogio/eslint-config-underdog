@@ -47,10 +47,6 @@ module.exports = {
     'eol-last': 2,
     'eqeqeq': 2,
     'func-names': 0,
-    'func-style': [
-      2,
-      'declaration'
-    ],
     'generator-star-spacing': 2,
     'global-require': 2,
     'guard-for-in': 2,
