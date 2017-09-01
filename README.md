@@ -24,7 +24,7 @@ Use this config as the base for your `eslintrc` config:
 
 ### ES6
 
-If you would like to use ES6, extend from the `ES6` config:
+If you would like to use ES6 or JSX, extend from the `ES6` config:
 
 ```
 {
@@ -32,16 +32,4 @@ If you would like to use ES6, extend from the `ES6` config:
   "rules": {
   }
 }
-```
-
-### React
-
-If you are using React, extend from the `React` config:
-
-```
-{
-  "extends: "underdog/react",
-  "rules": {
-  }
-}
-```
+``1
