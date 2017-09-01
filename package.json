@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-underdog",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "Base ESLint styles by Underdog.io",
   "main": "index.js",
   "scripts": {
