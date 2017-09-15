@@ -32,4 +32,4 @@ If you would like to use ES6 or JSX, extend from the `ES6` config:
   "rules": {
   }
 }
-``1
+```
