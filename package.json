@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "npm run lint-es5 && npm run lint-es6 && npm run lint-react",
     "lint-es5": "eslint -c ./index.js ./index.js ./test/index.js",
-    "lint-es6": "eslint -c ./es6.js ./**/*.js",
-    "lint-react": "eslint -c ./es6.js ./**/*.jsx",
+    "lint-es6": "eslint -c ./es6.js ./test/es6.js",
+    "lint-react": "eslint -c ./es6.js ./test/react.jsx",
     "test": "npm run lint"
   },
   "repository": {
