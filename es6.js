@@ -12,5 +12,8 @@ module.exports = {
   },
   plugins: [
     "react"
-  ]
+  ],
+  rules: {
+    'no-var': 2
+  }
 };
