@@ -22,7 +22,6 @@ module.exports = {
       '1tbs'
     ],
     'callback-return': 0,
-    'camelcase': 2,
     'comma-spacing': [
       2,
       {
